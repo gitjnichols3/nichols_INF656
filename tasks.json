@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Dishes",
+    "description": "Hand wash and dry the dirty dishes in the sink",
+    "status": "not completed"
+  },
+  {
+    "title": "Laundry",
+    "description": "Sort the dirty laundry from the hamper. Wash and dry the laundry using the machines provided. Hang up or fold clean laundry and put it away",
+    "status": "not completed"
+  },
+  {
+    "title": "Mow the Lawn",
+    "description": "Cut the grass using the provided lawn mower. Bag the clippings and put bags in the trash can",
+    "status": "not completed"
+  },
+  {
+    "title": "Grocery Shopping",
+    "description": "Plan the meals for the week. Make a list of needed ingredients. Go to the grocery store and purchase the ingredients. Come home and put the items away in their respective proper places",
+    "status": "not completed"
+  },
+  {
+    "title": "Take a Nap",
+    "description": "Fall asleep during the day in the living room. Wake up and look busy just before you're discovered",
+    "status": "completed"
+  },
+  {
+    "title": "Eat Cheese",
+    "description": "Choose from a lovely selection. Cut off a hunk and gobble it down.",
+    "status": "completed"
+  },
+  {
+    "title": "Test",
+    "description": "Testing test test",
+    "status": "completed"
+  },
+  {
+    "title": "Test2",
+    "description": "Testing test 2",
+    "status": "completed"
+  }
+]
