@@ -28,15 +28,5 @@
     "title": "Eat Cheese",
     "description": "Choose from a lovely selection. Cut off a hunk and gobble it down.",
     "status": "completed"
-  },
-  {
-    "title": "Test",
-    "description": "Testing test test",
-    "status": "completed"
-  },
-  {
-    "title": "Test2",
-    "description": "Testing test 2",
-    "status": "completed"
   }
 ]
